@@ -34,10 +34,7 @@ Leverage the power of Large Language Models (LLMs) to access the latest informat
 8. Mental Health Tests 📊🧐
 Take tests designed to predict your mental condition and its current stage. Gain insights into your emotional well-being and track your progress.
 
-9. Dark & Light Modes 🌗🌓
-Toggle between dark and light modes for a personalized visual experience. Choose what suits your mood and enhances your interaction with the platform.
-
-10. Gemini 1.5 Flash for Updated Information 🌐🔄
+9. Gemini 1.5 Flash for Updated Information 🌐🔄
 Access the internet seamlessly with Gemini 1.5 Flash to ensure our system provides correct and quality responses. Stay informed with real-time data.
 
 # Tech Stack
