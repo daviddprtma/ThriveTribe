@@ -7,6 +7,7 @@ An AI assistant application which takes basic diagnosis test and offers personal
 
 ## Presentation
 For the presentation of this project, you can click it in here: 
+[Thrive Tribe Presentation](https://www.canva.com/design/DAGcyWOk0oM/CJ1mqPUEks5Sun71PFE62w/edit?utm_content=DAGcyWOk0oM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Features
 
